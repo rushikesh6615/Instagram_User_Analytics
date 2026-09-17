@@ -1,5 +1,6 @@
  📊 Instagram User Analytics
 
+rusk rusk riusk
  📌 Overview
 This project focuses on analyzing Instagram user engagement using data collected via Meta Business Suite (formerly Facebook Insights). It aims to uncover patterns in user interaction and provide actionable insights to optimize future social media campaigns.
 
